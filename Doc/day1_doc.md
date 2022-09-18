@@ -1,14 +1,15 @@
 ### correct way to learn 
  - we need a correct guidline under a mentor or  a learning roadmap . why ?
-   . fast track learning
-   . Avoid information overload (also known as infoxication , information anxiety and info explosion )
-   . UpTo Date info from real world scenario
-   . connecting the dot 
-   . Professional approach  / thought process etc .
+   - fast track learning
+   - Avoid information overload (also known as infoxication , information anxiety and info explosion )
+   - UpTo Date info from real world scenario
+   - connecting the dot 
+   - Professional approach  / thought process etc .
  - take ur own note whatever u learn .
  - spend at least 10 hr/week
  - communicate with professional people or whom , who are doning well in this field or who're really best rather then you 
- - set ur own career path in security -->
+ - set ur own career path in security 
+ - 
    ![career path image](../Images/cybr_sec_career_path.jpeg) 
 
  
@@ -38,11 +39,11 @@
  - [keypass]( https://keepass.info/download.html) (an offline password maintainance soft)
  - [greenshot](https://getgreenshot.org/downloads/) screenshot editor
  - note taking app 
-   . [joplin offline](https://joplinapp.org/)
-   . [Onenote online](https://www.onenote.com/download)
+   - [joplin offline](https://joplinapp.org/)
+   - [Onenote online](https://www.onenote.com/download)
  - Browser
-   . [vivaldi](https://downloads.vivaldi.com/stable/Vivaldi.5.4.2753.51.x64.exe) 
-   . [Brave](https://laptop-updates.brave.com/latest/winx64)
+   - [vivaldi](https://downloads.vivaldi.com/stable/Vivaldi.5.4.2753.51.x64.exe) 
+   - [Brave](https://laptop-updates.brave.com/latest/winx64)
 
 
 ### Task
