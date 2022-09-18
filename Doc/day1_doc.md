@@ -8,7 +8,7 @@
  - take ur own note whatever u learn .
  - spend at least 10 hr/week
  - communicate with professional people or whom , who are doning well in this field or who're really best rather then you 
- - set ur own career path in security ([career path image](../Images/cybr_sec_career_path.jpeg) )
+ - set ur own career path in security -> [career path image](../Images/cybr_sec_career_path.jpeg) 
 
  
 ### why you can't get a well output 
