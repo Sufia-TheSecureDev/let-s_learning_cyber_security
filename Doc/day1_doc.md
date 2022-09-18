@@ -1,4 +1,4 @@
-#### correct way to learn 
+### correct way to learn 
  - we need a correct guidline under a mentor or  a learning roadmap . why ?
    . fast track learning
    . Avoid information overload (also known as infoxication , information anxiety and info explosion )
@@ -11,7 +11,7 @@
  - set ur own career path in security ([career path image](../Images/cybr_sec_career_path.jpeg) )
 
  
-#### why you can't get a well output 
+### why you can't get a well output 
  - if u haven't any proper goal
  - haven't consistency 
  - u wanna complete ur task but can't.  for not set ur target date.
