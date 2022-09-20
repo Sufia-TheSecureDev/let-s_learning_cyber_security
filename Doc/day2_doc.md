@@ -1,28 +1,33 @@
 ### _Some Terminologies about Cyber Security_
- 1. **CIA Triad**
+
+### **CIA Triad :**
  The three letters in "CIA triad" stand for Confidentiality, Integrity, and Availability. The CIA triad is a common model that ***forms the basis for the development of security systems.*** They are used for finding vulnerabilities and methods for creating solutions.
-  a. _Confidentiality: ensuring that information is accessible only to those authorized to have access.For example : Encryption_
-  b._Integrity: safe guarding the accuracy and completeness of information and processing methods . example : Hashing, Digital signatures_
-  c. _Availability: ensuring that authorized users have access to information and associated assets when required.Example :Backups, redundant system_
+
+  . _Confidentiality: ensuring that information is accessible only to those authorized to have access.For example : Encryption_
+  ._Integrity: safe guarding the accuracy and completeness of information and processing methods . example : Hashing, Digital signatures_
+  . _Availability: ensuring that authorized users have access to information and associated assets when required.Example :Backups, redundant system_
  
  ![CIA Triad](../Images/CIA-Triad.jpg)
-2. **AAA**
+
+ 
+### **AAA :**
 Authentication, authorization, and accounting (AAA) is a security framework that controls access to computer resources, enforces policies, and audits usage.
 
 ![AAA](../Images/AAA.jpg)
 
-3. **Threat and Threat Actor**
- ***Threat :*** A cyber threat is an activity,  aimed to harm  the security of an information system by altering the availability , integrity , or confidentiality  of a system or the information it contains.
+### **Threat and Threat Actor**
+
+  ***Threat :*** A cyber threat is an activity,  aimed to harm  the security of an information system by altering the availability , integrity , or confidentiality  of a system or the information it contains.
 
  ***Threat Actor :*** Cyber threat actors are states, groups, or individuals who, with malicious intent, aim to take advantage of vulnerabilities, low cyber security awareness, or technological developments to gain unauthorized access to information systems in order to access or otherwise affect victims’ data, devices, systems, and networks. 
 
  _In short Threat is an action to harm any assets and a threat actor is , who   take those action ._
 
-4. **vulnerability :** A vulnerability in cyber security refers to any weakness in an information system, system processes, or internal controls of an organization that can be exploited by cyber criminals to gain unauthorized access to a computer system. 
+### **vulnerability :** A vulnerability in cyber security refers to any weakness in an information system, system processes, or internal controls of an organization that can be exploited by cyber criminals to gain unauthorized access to a computer system. 
 
-5. **Mitigation :** The definition of mitigation refers to Reducing risks or effects. 
+### **Mitigation :** The definition of mitigation refers to Reducing risks or effects. 
 
-6.**Defense in Depth :** A defense-in-depth strategy,   refers to a cybersecurity approach that uses multiple layers of security for holistic protection.
+### **Defense in Depth :** A defense-in-depth strategy,   refers to a cybersecurity approach that uses multiple layers of security for holistic protection.
 A layered defense helps security organizations reduce vulnerabilities, contain threats, and mitigate risk.
 
 ![defence in depth](../Images/Defense_in_Depth_Layer.jpg)
@@ -44,15 +49,15 @@ A layered defense helps security organizations reduce vulnerabilities, contain t
   . w > out.txt  =>             redirect a file with write mood
   . cat out.txt  =>             display a file 
   . grep 'some text' fileName.extension =>   search some text from any file .
-  . grep 'text' fileName.extention > result.txt  => search 'text' in fileName.extention also show this result in result.txt file.
+  . grep 'text' fileName.extension > result.txt  => search 'text' in fileName.extension also show this result in result.txt file.
 
   ```
 
-**Softwate install**
+### **Softwate install**
  - [7zip](https://www.7-zip.org/download.html)  ( an open-source file archiver)
- - 
+ 
 
-**Tips for VM Box**
+### **Tips for VM Box**
  - open vm box then click on Tools then select preferences 
  - click on Network option 
  - if there are already selected a NatNetwork then ok otherwise add a Nat network from right side icon.
@@ -65,7 +70,7 @@ A layered defense helps security organizations reduce vulnerabilities, contain t
       c. click ADvanced and select Promiscuous Mode to Allow VMs then mark cable connected 
 - click ok
 
-**Task**
+### **Task**
  - complete [linux unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched) course at least 50%
  - start learning from  [linux journey](https://linuxjourney.com/lesson/the-shell)
  - start the [linux command cheat sheet](../Book/LinuxCommandLineCheatSheet.pdf)
