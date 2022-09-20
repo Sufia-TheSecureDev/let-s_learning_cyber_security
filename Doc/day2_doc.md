@@ -3,9 +3,11 @@
 ### **CIA Triad :**
  The three letters in "CIA triad" stand for Confidentiality, Integrity, and Availability. The CIA triad is a common model that ***forms the basis for the development of security systems.*** They are used for finding vulnerabilities and methods for creating solutions.
 
-  . _Confidentiality: ensuring that information is accessible only to those authorized to have access.For example : Encryption_
-  ._Integrity: safe guarding the accuracy and completeness of information and processing methods . example : Hashing, Digital signatures_
-  . _Availability: ensuring that authorized users have access to information and associated assets when required.Example :Backups, redundant system_
+  . **Confidentiality:** _ensuring that information is accessible only to those authorized to have access.For example : Encryption_
+
+  .**Integrity:** _safe guarding the accuracy and completeness of information and processing methods . example : Hashing, Digital signatures_
+  
+  . **Availability:** _ensuring that authorized users have access to information and associated assets when required.Example :Backups, redundant system_
  
  ![CIA Triad](../Images/CIA-Triad.jpg)
 
@@ -23,11 +25,14 @@ Authentication, authorization, and accounting (AAA) is a security framework that
 
  _In short Threat is an action to harm any assets and a threat actor is , who   take those action ._
 
-### **vulnerability :** A vulnerability in cyber security refers to any weakness in an information system, system processes, or internal controls of an organization that can be exploited by cyber criminals to gain unauthorized access to a computer system. 
+### **vulnerability :** 
+  A vulnerability in cyber security refers to any weakness in an information system, system processes, or internal controls of an organization that can be exploited by cyber criminals to gain unauthorized access to a computer system. 
 
-### **Mitigation :** The definition of mitigation refers to Reducing risks or effects. 
+### **Mitigation :** 
+  The definition of mitigation refers to Reducing risks or effects. 
 
-### **Defense in Depth :** A defense-in-depth strategy,   refers to a cybersecurity approach that uses multiple layers of security for holistic protection.
+### **Defense in Depth :** 
+A defense-in-depth strategy,   refers to a cybersecurity approach that uses multiple layers of security for holistic protection.
 A layered defense helps security organizations reduce vulnerabilities, contain threats, and mitigate risk.
 
 ![defence in depth](../Images/Defense_in_Depth_Layer.jpg)
