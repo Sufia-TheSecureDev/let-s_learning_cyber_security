@@ -1,7 +1,7 @@
 ### Social Engineering Threat
-- [x] #739 Social engineering attacks are a type of cyber crime wherein the attacker fools the target through impersonation. They might pretend to be your boss, your supplier, someone from our IT team, or your delivery company. Regardless of who they're impersonating, their motivation is always the same — extracting money or data.
-- [x] #739 Social engineering uses psychological manipulation to trick users into making security mistakes or giving away sensitive information.
-- [x] #739 A social engineer can manipulate staff members into giving access to their computers, routers, or Wi-Fi; the social engineer can then steal Protected Health Information (PHI), Personal Identifiable Information (PII).
+- [x]   Social engineering attacks are a type of cyber crime wherein the attacker fools the target through impersonation. They might pretend to be your boss, your supplier, someone from our IT team, or your delivery company. Regardless of who they're impersonating, their motivation is always the same — extracting money or data.
+- [x]   Social engineering uses psychological manipulation to trick users into making security mistakes or giving away sensitive information.
+- [x]   A social engineer can manipulate staff members into giving access to their computers, routers, or Wi-Fi; the social engineer can then steal Protected Health Information (PHI), Personal Identifiable Information (PII).
 
 ***PII***  - personal identifiable  information (name,email,no , profession ,etc)
 
@@ -26,23 +26,25 @@ __Personal Identifying Information (PII) is any type of data that can be used to
 ###  Linux Command
  
 ```
-ps -eaf | grep apache2    => search apache2 process 
-..... | ....               => pipe command worked as ,, the output of first portion is the input of second portion ex:  history | tail -5 means over the all history took only last 5 history.
+ps -eaf | grep apache2               => search apache2 process 
+..... | ....                         => pipe command worked as ,, the output of first portion is the input of second  
+                               portion ex:  history | tail -5 means over the all history took only last 5 history.
 
-service apache2 start       => start apache2 service (any service can start with their name  )
-service apache2 status       => check the status of apache2 whether it's active or not
-service apache2 stop         => stop apache2
+service apache2 start                => start apache2 service (any service can start with their name  )
+service apache2 status               => check the status of apache2 whether it's active or not
+service apache2 stop                 => stop apache2
 
-netstat -ano                 =>network monitoring [ means which network are connected with ur debian machine also it will show , which program are responsible for those network]
+netstat -ano                         =>network monitoring [ means which network are connected with ur debian machine 
+                              also it will show , which program are responsible for those network]
 
-kill -9 -1                   =>forcefully kill all process
+kill -9 -1                            =>forcefully kill all process
 
-ifconfig                     => show ip addr [ethernet , lookback]
- ip a                        => also show ip [ip address]
- lsof -i                     => which port are listened with internet .
+ifconfig                            => show ip addr [ethernet , lookback]
+ ip a                               => also show ip [ip address]
+ lsof -i                            => which port are listened with internet .
 
- whois swafiais.xyz           => basic info about any domain
- whatweb swafiais.xyz         => which tech are used their backend 
+ whois swafiais.xyz                  => basic info about any domain
+ whatweb swafiais.xyz                => which tech are used their backend 
 
 ```
  
