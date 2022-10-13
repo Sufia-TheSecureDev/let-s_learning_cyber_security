@@ -49,8 +49,8 @@ if u want to trace anyone's ip or location then u can generate a canary token vi
     Enter your name:
     Enter your email address:
     ```
-Save those two pieces of information in a text file.   
-Can you read that file and display it on the screen as well?
+  Save those two pieces of information in a text file.   
+  Can you read that file and display it on the screen as well?
 6. Run a simple youtube video using a python library .
 7. Think ***two-factor code*** 
 Let's generate 6 digits random number using python,
