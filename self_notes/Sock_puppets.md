@@ -1,4 +1,4 @@
-### What is sock puppets?
+## What is sock puppets?
 Sock puppets are nothing but detailed created fake social media accounts to research in **OSINT** without giving up the true identity.
 
 Sock Puppets are basically aliases, fictitious persona profiles created by someone else with specific goals in mind and is part of an **OSINT** __Social Engineering__ technique.
@@ -7,7 +7,7 @@ These type of accounts can be used by anyone like investigators, detectives, hac
 
 Well, it’s not as easy as it sounds, for creating a successful sock puppet it needs to be credible and consistent with how the real person behaves online. Sock puppets have a real name, real phone numbers, address, photographs, credit card number, various social media accounts, friends, etc. 
 
-###  Purpose of Sock puppets.
+##  Purpose of Sock puppets.
 Sock puppets can be used in various different ways-
 
 1. Investigators can use the sock accounts to collect information and do research o some cases.
@@ -15,7 +15,7 @@ Sock puppets can be used in various different ways-
 3. Detective can use these type of accounts to collect information and to know the nature of someone related to their cases.
 __Basically, sock accounts are used to collect information or to look into someone without letting them know. Anyone can use it in anyway they like.__
 
-### What does it takes to make a perfect sock puppet?
+## What does it takes to make a perfect sock puppet?
 
 - A perfect sock puppet will never be connected by any means to its original owner.
 
@@ -27,7 +27,7 @@ __Basically, sock accounts are used to collect information or to look into someo
 
 a. Choosing a Right Platform
 b. Make it as much real as possible 
-### How to Create Sock Account?
+## How to Create Sock Account?
 1. Name ([fake name generator](https://www.fakenamegenerator.com/))
 2. Email Address (__You can use any mail provider to create email address make sure not to use your IP address while doing this.__)
 3. Face ([create fake faces with AI ](https://thispersondoesnotexist.com/))
@@ -41,7 +41,7 @@ But When a website needs to verify your phone number then it’s good to have bu
 
 Although you always have options to buy a VoIP number or the cheapest sim card for mobile verification.__
 
-### Tips
+## Tips
 1. Always have a two socks account, so that if one burned you have another.
 2. Make long terms account. Don’t start researching anyone without making your account enough legit.
 3. Don’t use real person’s face, because the first things anyone do is to google your photo.

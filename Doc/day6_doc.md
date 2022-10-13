@@ -36,6 +36,22 @@ if u want to trace anyone's ip or location then u can generate a canary token vi
  5. you will see that if notepad is opened then it will be  close after run the python file.
 
 
- ### Task 
+ ### Task for python practice
 1. Write a  python program for generate a file with software name list from ur installed software list in windows os , just took ur software name and version and write in another file.
-2. write a program for shut down ur computer in a  specific time 
+2. write a program for shut down ur computer in a  specific time (similar to Task schedular)
+3. Mail sending program using python.
+4. Open Calculator program on a specific date and time.Hint: 
+   - Subprocess
+   - search DateTime function or how to trcak the date time in python ?
+   -  how to calculate day difference ?
+5. Take input from user :
+    ```
+    Enter your name:
+    Enter your email address:
+    ```
+Save those two pieces of information in a text file.   
+Can you read that file and display it on the screen as well?
+6. Run a simple youtube video using a python library .
+7. Think ***two-factor code*** 
+Let's generate 6 digits random number using python,
+It will change every 30 sec... and display a new one.
