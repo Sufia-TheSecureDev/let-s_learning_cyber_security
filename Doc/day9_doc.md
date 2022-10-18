@@ -2,10 +2,10 @@
 
 | command | for |
 |---------|--------|
-| ```df -h (pipe) grep /dev (pipe|) awk -F " " '{print $5}' ```| output will be ur percentage of memory used of kali machine.Where grep used for search and awk used for get specific column data |
+| ```df -h \| grep /dev \| awk -F " " '{print $5}' ```| output will be ur percentage of memory used of kali machine.Where grep used for search and awk used for get specific column data |
 |``` find /var -type f -name access.log ```|    find access.log file from var directory |
-|``` service apache2 start ```<br/>``` ps -eaf |(pipe) grep apache2 ```| grep apache2 process info |
-|``` gunzip filename.ext ```<br/>``` cat filename.ext (pipe) head (pipe) outpur.txt ```| unzip a file then read first 10 line also redirect those in an another file |
+|``` service apache2 start ```<br/>``` ps -eaf \| grep apache2 ```| grep apache2 process info |
+|``` gunzip filename.ext ```<br/>``` cat filename.ext \| head \| outpur.txt ```| unzip a file then read first 10 line also redirect those in an another file |
 |``` touch file_{1..10}.txt ```| make multiple blank file at a time with touch |
 |``` echo "please try hard and hard" \| sed 's/hard/harder/g'  ```| replace all hard to harder with sed command |
 |``` apt install terminal ``` | install terminal package |
