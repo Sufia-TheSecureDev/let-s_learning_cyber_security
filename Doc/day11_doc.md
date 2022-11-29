@@ -19,13 +19,13 @@ there have so many tool to bug bounty or pen test .for example **dalfox - uses f
 
 
 # Linux command for terminal ss
-    | command | for |
-    |---------|--------|
-    | ```dir \| clip ```|  take a ss as a text for current terminal page |
+| command | for |
+|---------|--------|
+| ```dir \| clip ```|  take a ss as a text for current terminal page |
 
 **Networkchuck - you tube channel for interesting linux command**
 
 
 # Task 
-    - bwapp site scan with **dalfox**
-    - research on [reg query] command
+- bwapp site scan with **dalfox**
+- research on [reg query] command

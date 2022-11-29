@@ -6,8 +6,8 @@ must know these topic to become a SOC Analyst :
 ![soc](../Images/soc-analyst.jpg)
 
 **Resources**
-    - Soc fundamental from [LetsDefend](https://app.letsdefend.io/training/lessons/soc-fundamentals)
-    - Roadmap of a soc [analyst](https://funky-drizzle-b67.notion.site/5cd15d37996c4b5597fcd7e2f4e75323?v=4f9184eb86df463aa62400c930d6ff01)
+- Soc fundamental from [LetsDefend](https://app.letsdefend.io/training/lessons/soc-fundamentals)<br/>
+- Roadmap of a soc [analyst](https://funky-drizzle-b67.notion.site/5cd15d37996c4b5597fcd7e2f4e75323?v=4f9184eb86df463aa62400c930d6ff01)
 
 # SIEM (security information and event management)
 
@@ -28,15 +28,16 @@ SOCs commonly receive tens or hundreds of thousands of security alerts in a sing
 
 #    3 main roles of a SIEM 
 
- Gartner identifies three critical capabilities for SIEM 
-        - threat detection,
-        - investigation and 
-        - time to respond
+Gartner identifies three critical capabilities for SIEM 
+- threat detection,
+- investigation and 
+ - time to respond <br/>
+
  there are other features and functionality that you commonly see in the SIEM market,
  including: 
-        - Basic security monitoring. 
-        - Advanced threat detection.
-        - Forensics & incident response
+- Basic security monitoring. 
+- Advanced threat detection.
+- Forensics & incident response
 
 # Top SIEM solution product 
 
@@ -62,9 +63,9 @@ SOCs commonly receive tens or hundreds of thousands of security alerts in a sing
 
 
  # summery of soc work flow 
-    - events and info collect into SIEM dashboard
-    - a soc analyst can triage those info from SIEM __[Triage : Triage analysis is the evaluation of security incidents to determine which are false positives and which need to be addressed urgently. To make that determination you need to follow a protocol.]__
-    -  action will be held based on triage by ticketing. [action means block  those malware by ticketing ,, a network team or desktop team can block ]
+- events and info collect into SIEM dashboard
+- a soc analyst can triage those info from SIEM __[Triage : Triage analysis is the evaluation of security incidents to determine which are false positives and which need to be addressed urgently. To make that determination you need to follow a protocol.]__
+- action will be held based on triage by ticketing. [action means block  those malware by ticketing ,, a network team or desktop team can block ]
 
 # SOC tools and technique :
     SIEM
